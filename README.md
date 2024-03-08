@@ -90,6 +90,6 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
 
 **Result:**
-SUCCESSFULLY EXECUTED
 
+Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
 
